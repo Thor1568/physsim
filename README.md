@@ -1,6 +1,7 @@
 # physsim
 A simulator made by an AP Physics 1 student for extra credit in Python3. This simulator is currently unfinished but can help students visualize physics concepts in an ideal environment. There are many parameters that can also be tweaked to make the scenario different as well. Its purpose is to show that physics can be applied to all sorts of things, including using Newton's laws and what we learned in class to make a simulator. 
 
+Dependencies: Python3 and pygame 
 Note from creator: Sometimes I want camel case, sometimes I don't  :p
 
 ## New Classes(subclasses of pygame.sprite.Sprite):
